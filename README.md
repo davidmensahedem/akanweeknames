@@ -1,4 +1,4 @@
-# `akanweeknames v1.0.0`
+# `akanweeknames v1.0.1`
 
 This library exported as [Node.js](https://nodejs.org/) modules.
 
